@@ -134,13 +134,13 @@ main .img img {
 }
 
 
-/* @media (min-width:950px) and (max-width:1150px) {
+@media (min-width:950px) and (max-width:1150px) {
     main .img img{
-        width: 400px;
+        width: 333px;
     }
-} */
+}
 
-@media (max-width:1900px) {
+@media (max-width:950px) {
     main, nav {
         flex-direction: column;
         justify-content: center;
