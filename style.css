@@ -141,7 +141,7 @@ main .img img {
     }
 }
 
-/* @media (max-width:950px) {
+@media (max-width:950px) {
     main, nav {
         background-color: black;
         flex-direction: column;
@@ -157,4 +157,4 @@ main .img img {
     }
 }
 
- */
+
