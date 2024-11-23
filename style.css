@@ -140,7 +140,7 @@ main .img img {
     }
 }
 
-@media (max-width:950px) {
+@media (max-width:1900) {
     main, nav {
         background-color: black;
         flex-direction: column;
