@@ -142,7 +142,6 @@ main .img img {
 
 @media (max-width:1900px) {
     main, nav {
-        background-color: black;
         flex-direction: column;
         justify-content: center;
     }
