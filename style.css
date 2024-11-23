@@ -136,7 +136,6 @@ main .img img {
 
 @media (min-width:950px) and (max-width:1150px) {
     main .img img{
-        background-color: white;
         width: 400px;
     }
 }
